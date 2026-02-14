@@ -13,6 +13,6 @@ The Binomial Tree is a mathematical model used to price derivatives, such as Eur
 
 3. Constant risk-free rate "𝑟"
 
-4. Discrete time steps 
+4. Discrete time steps "˝"
 
 5. European option (initially)
