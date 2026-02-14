@@ -4,16 +4,16 @@ The Binomial Tree is a mathematical model used to price derivatives, such as Eur
 
 ## Model Assumptions:
 
-The underlying price can move:
+1. The underlying price can move:
 
-Up by factor u
+$$Up by factor "u"$$
 
-Down by factor d
+$$Down by factor "d"$$
 
-No arbitrage
+2. No arbitrage
 
-Constant risk-free rate 𝑟
+3. Constant risk-free rate 𝑟
 
-Discrete time steps
+4. Discrete time steps
 
-European option (initially)
+5. European option (initially)
