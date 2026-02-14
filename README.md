@@ -6,9 +6,8 @@ The Binomial Tree is a mathematical model used to price derivatives, such as Eur
 
 1. The underlying price can move:
 
-$Up by factor "u"$
-
-$Down by factor "d"$
+- Up by factor $u$
+- Down by factor $d$
 
 2. No arbitrage
 
